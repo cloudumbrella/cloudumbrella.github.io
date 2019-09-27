@@ -9,7 +9,7 @@ search_provider          : "google" # lunr (default), algolia, google
 google:
   search_engine_id       : "014703115793692698478:xge8kh1ezej" # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-  
+
 # SEO Related
 google_site_verification : "bFjWofACMg07882zo-25-Bpd9o6FFjzDUHyuOkslWGY"
 bing_site_verification   :
@@ -22,3 +22,20 @@ analytics:
   google:
     tracking_id          : "UA-148730031-1"
     anonymize_ip         : # true, false (default)
+
+# Site Author
+author:
+  name             : "Megazone Cloud"
+  avatar           : "/assets/img/MZC_logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Security Service & Solution team 의, 클라우드 관련 보안 기술 블로그."
+  email            :
+  links:
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:cloudumbrella@mz.co.kr
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.megazone.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/megazonecloud"

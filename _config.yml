@@ -39,3 +39,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/megazonecloud"
+
+
+plugin:
+  - jekll-seo-tag

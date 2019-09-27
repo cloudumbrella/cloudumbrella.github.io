@@ -1,5 +1,24 @@
-title: Cayman theme
+title: 클라우드 보안 기술 블로그
 description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+
+
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : "google" # lunr (default), algolia, google
+google:
+  search_engine_id       : "014703115793692698478:xge8kh1ezej" # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+  
+# SEO Related
+google_site_verification : "bFjWofACMg07882zo-25-Bpd9o6FFjzDUHyuOkslWGY"
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-148730031-1"
+    anonymize_ip         : # true, false (default)
